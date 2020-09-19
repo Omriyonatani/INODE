@@ -1,2 +1,2 @@
 # INODE
-Ex3-OperatingSystems
+Ex3-Operating systems
